@@ -1,0 +1,26 @@
+a img{
+	width: 100px;
+	height: 100px;
+}
+.height{
+	height: 56px;
+}
+.align{
+	text-align: center;
+}
+.blc{
+	width: 300px;
+	height: auto;
+}
+.margin{
+	margin-bottom: 50px;
+}
+.colordark{
+	background-color: #1A1520;
+}
+.colorpurple{
+	background-color: #DDCB90;
+}
+.textcolor{
+	color: #FBF7EE;
+}
