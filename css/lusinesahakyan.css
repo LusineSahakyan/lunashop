@@ -16,14 +16,27 @@ a img{
 	margin-bottom: 50px;
 }
 .colordark{
-	background-color: #1A1520;
+	background-color: #1B1B1B;
 }
 .colorpurple{
-	background-color: #DDCB90;
+	background-color: #938599;
 }
 .textcolor{
 	color: #FBF7EE;
 }
 .bigimg{
 	width: 100%;
+}
+.dropdownstyle{
+	background-color: ;
+	text-decoration-color: white;
+}
+.imgsize{
+	width: 400px;
+}
+.backgroundcolor{
+	background-color: #D2D2D2;
+}
+.imgthumbnail{
+	width: 100px;
 }

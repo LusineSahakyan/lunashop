@@ -1,0 +1,14 @@
+.hero-image{
+	background-image: url(pics/images.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed; 
+}
+body, html{
+	height: 100%;
+}
+.hero-text {
+  text-align: center;
+  position: absolute;
+  color: black;
+}
